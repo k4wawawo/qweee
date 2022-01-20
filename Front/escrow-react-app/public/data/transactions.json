@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "ownerId": 2,
+    "kind": "selling",
+    "title": "Mateusz",
+    "ownerEmail": "2xd@xd.com",
+    "amountBTC": 100,
+    "whoPayFee": "buyer",
+    "description": "item",
+    "expireDate": "01/02/2022",
+    "secondPersonEmail": "aaaa@xdd.com",
+    "wallet": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "status": "send"
+  },
+  {
+    "id": 2,
+    "ownerId": 2,
+    "kind": "selling",
+    "title": "Mateusz",
+    "ownerEmail": "2xd@xd.com",
+    "amountBTC": 100,
+    "whoPayFee": "buyer",
+    "description": "item",
+    "expireDate": "01/02/2022",
+    "secondPersonEmail": "aaaa@xdd.com",
+    "wallet": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "status": "complete",
+    "completeDate": "01/01/2022",
+    "transactionHash": "xxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "id": 3,
+    "ownerId": 2,
+    "kind": "buying",
+    "title": "Michał",
+    "ownerEmail": "2xd@xd.com",
+    "amountBTC": 100,
+    "whoPayFee": "buyer",
+    "description": "item",
+    "expireDate": "01/02/2022",
+    "secondPersonEmail": "aaaa@xdd.com",
+    "wallet": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "status": "process"
+  }
+]

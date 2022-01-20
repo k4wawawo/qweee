@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "email": "xd@xd.com",
+    "name": "Waldek",
+    "password": "123",
+    "isAdmin": true
+  },
+  {
+    "id": 2,
+    "email": "2xd@xd.com",
+    "name": "Mateusz",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "id": 3,
+    "email": "aaaa@xdd.com",
+    "name": "Michał",
+    "password": "123",
+    "isAdmin": false
+  }
+]
